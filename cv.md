@@ -98,4 +98,4 @@ German | 2/5
 
 ## Professional Summary
 
-I'm taking IT programming courses and plan to become a Front-end developer.
+I’m having  IT-programming courses and I’m going to become a Front-end developer
