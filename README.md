@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nickolast.github.io/rsschool-cv/cv
