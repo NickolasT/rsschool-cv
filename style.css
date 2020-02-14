@@ -1,0 +1,71 @@
+body{
+	width: 1024px;
+	background-color: rgb(49, 42, 70);
+	font-size: 24px;
+	color: white;
+	margin: auto;
+	position: absolute;
+	top: 0; 
+	left: 0; 
+	bottom: 0; 
+	right: 0;
+}
+
+header{
+	height: 250px;
+	width: 1024px;
+	background-color: rgb(25, 21, 46);
+	margin: 0px;
+	border-radius: 25px;
+}
+
+.address{
+	font-style: italic;
+	color: rgb(204, 240, 121);
+}
+
+.resume{
+	color: rgb(162, 229, 231);
+	font-size: 60px;
+	margin: 20px;
+}
+
+.header-bloq{
+	display: flex;
+	width: auto;
+	height: auto;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.photo{
+	height: 250px;
+	border-radius: 25px;
+}
+
+pre{
+	font-size: 16px;
+	background-color: rgb(35, 36, 35);
+	color: turquoise;
+}
+
+table, th, td{
+	border: 1px solid;
+	border-collapse: collapse;
+}
+
+th{
+	color: rgb(204, 240, 121);
+}
+
+table{
+	width: 1024px;
+}
+
+table :first-child{
+	text-align: center;
+}
+
+h1{
+	color: black;
+}
